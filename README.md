@@ -1,7 +1,8 @@
 
 🌟 Data Visualization Dashboard Web Application 🌟
 
-![Dashboard](https://your-image-link-here.png)
+![Dashboard](![Screenshot 2024-07-19 151110](https://github.com/user-attachments/assets/c997c6f4-9391-4a57-b150-f2cd672f8239)
+)
 
 This project is a sophisticated web application designed for data visualization, integrating a Spring Boot backend with Node.js and Express.js, and utilizing React.js for the frontend. The dashboard employs MongoDB for data storage and leverages Chart.js for dynamic and interactive data visualization.
 
