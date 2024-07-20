@@ -1,6 +1,6 @@
 
 🌟 Data Visualization Dashboard Web Application 🌟
-
+PROTOTYPE:
 ![Dashboard](![Screenshot 2024-07-19 151110](https://github.com/user-attachments/assets/c997c6f4-9391-4a57-b150-f2cd672f8239)
 )
 
