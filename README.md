@@ -134,7 +134,14 @@ This project involves:
 )
 ![Dashboard Example](![Screenshot 2024-07-19 143018](https://github.com/user-attachments/assets/dd73a03c-dc89-4a09-9fc1-7a318928babd)
 )
-![Dashboard Example](https://your-image-link-here.png)
+Playing with Data
+![Dashboard Example](![Screenshot 2024-07-19 192430](https://github.com/user-attachments/assets/81a4cda4-539a-435e-97bc-658a349afc76)
+)
+![Dashboard Example](![Screenshot 2024-07-19 192619](https://github.com/user-attachments/assets/05d25293-2158-4a6f-85d5-0f0a54693b84)
+)
+
+
+
 
 ## 🔍 Filters
 
